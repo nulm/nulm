@@ -1,11 +1,7 @@
-<p align=center> 
+<h1 align="center"> Hello! </h1>
 
-### Hi there 👋
-
-## My top used Languages in Public Repos!
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nulm&theme=2077)
-
-
-## My Socials & Contact Info
-
-</p>
+<p align="center">
+    <b>Connect with through:</b>
+    <a href="joshedmondson@protonmail.com">
+        <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+    </a>
