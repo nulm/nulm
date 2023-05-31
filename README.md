@@ -13,5 +13,3 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nulm&theme=2077">
     </a>
 </details>
-
-//t
