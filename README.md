@@ -1,5 +1,5 @@
 <h1 align="center"> Hello! </h1>
-Portfolio: <a href="https://joshlabs.space/">Offline</a>
+Portfolio: offline
 <h3>Some Public Repo Stats</h3>
 <details>
     <a href="https://github.com/nulm">
